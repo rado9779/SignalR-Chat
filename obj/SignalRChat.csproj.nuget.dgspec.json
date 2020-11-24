@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudioProjects\\SignalRChat\\SignalRChat.csproj": {}
+    "C:\\Users\\USER\\Desktop\\SignalR-Chat\\SignalRChat.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudioProjects\\SignalRChat\\SignalRChat.csproj": {
+    "C:\\Users\\USER\\Desktop\\SignalR-Chat\\SignalRChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudioProjects\\SignalRChat\\SignalRChat.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\SignalR-Chat\\SignalRChat.csproj",
         "projectName": "SignalRChat",
-        "projectPath": "D:\\VisualStudioProjects\\SignalRChat\\SignalRChat.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\SignalR-Chat\\SignalRChat.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudioProjects\\SignalRChat\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\SignalR-Chat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
