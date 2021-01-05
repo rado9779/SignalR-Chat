@@ -65,7 +65,6 @@ D:\VisualStudioProjects\SignalRChat\obj\Debug\netcoreapp3.1\SignalRChat.dll
 D:\VisualStudioProjects\SignalRChat\obj\Debug\netcoreapp3.1\SignalRChat.pdb
 C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\SignalRChat.StaticWebAssets.xml
 C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\SignalRChat.exe
 C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\SignalRChat.deps.json
@@ -129,3 +128,6 @@ C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.csproj.Co
 C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.dll
 C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.pdb
 C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\scopedcss\bundle\SignalRChat.styles.css
+C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.genruntimeconfig.cache
