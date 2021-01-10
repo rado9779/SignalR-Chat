@@ -130,4 +130,3 @@ C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\libman.json
 C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\scopedcss\bundle\SignalRChat.styles.css
 C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.genruntimeconfig.cache
-C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.csprojAssemblyReference.cache
