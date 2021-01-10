@@ -100,7 +100,6 @@ C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\runtimes\win-x86\nati
 C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.csprojAssemblyReference.cache
 C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\staticwebassets\SignalRChat.StaticWebAssets.Manifest.cache
 C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\staticwebassets\SignalRChat.StaticWebAssets.xml
 C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.MvcApplicationPartsAssemblyInfo.cs
@@ -131,3 +130,4 @@ C:\Users\USER\Desktop\SignalR-Chat\bin\Debug\netcoreapp3.1\libman.json
 C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\scopedcss\bundle\SignalRChat.styles.css
 C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.genruntimeconfig.cache
+C:\Users\USER\Desktop\SignalR-Chat\obj\Debug\netcoreapp3.1\SignalRChat.csprojAssemblyReference.cache
