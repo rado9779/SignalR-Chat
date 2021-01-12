@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.SignalR;
+using SignalRChat.Models;
 
 namespace SignalRChat.Hubs
 {
@@ -12,10 +13,10 @@ namespace SignalRChat.Hubs
         {
             _httpContextAccessor = httpContextAccessor;
         }
-        public async Task SendMessage(string user, string message)
+        public async Task SendMessage(string inputMessage)
         {
             var username = _httpContextAccessor.HttpContext.User.FindFirstValue(ClaimTypes.Name);
-            await Clients.All.SendAsync("ReceiveMessage", username, message);
+            await Clients.All.SendAsync("ReceiveMessage", username, inputMessage);
         }
     }
 }
