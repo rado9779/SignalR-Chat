@@ -18,6 +18,8 @@ namespace SignalRChat.Data
 
         public DbSet<Message> Messages { get; set; }
 
+        public DbSet<Chat> Chats { get; set; }
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);

@@ -50,5 +50,19 @@ namespace SignalRChat.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public async Task<IActionResult> CreateRoom(string name)
+        {
+            var chat = new Chat 
+            {
+               Name = name,
+               Type = ChatType.Room
+            };
+
+            _context.Chats.Add(chat);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
+        }
     }
 }
